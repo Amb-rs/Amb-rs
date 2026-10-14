@@ -1,6 +1,6 @@
 # Hi, I'm Amber
 
-Software developer focused on TypeScript and game/backend systems. I'm a top contributor to
+Software developer focused on TypeScript and games. I'm a top contributor to
 [Lost City](https://github.com/LostCityRS), an open-source recreation of RuneScape 2.
 
 ## What I build at Lost City
